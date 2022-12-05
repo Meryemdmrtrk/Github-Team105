@@ -1,0 +1,28 @@
+package ders25_StaticVarıables;
+
+public class Deneme {
+
+    int a=10;
+     static int b=20;
+     String str1="Ali";
+     static  String str2="Ayse";
+
+     Deneme(){
+
+         str1="Hasan";
+         str2 +="++";
+
+     }
+      Deneme(int x, int y){
+         a=x;
+         b=y;
+
+      }
+
+    public static void main(String[] args) {
+
+         Deneme dnm1= new Deneme(10,12);
+         System.out.println(dnm1.b);
+
+    }
+}

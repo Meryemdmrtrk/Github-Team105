@@ -1,0 +1,19 @@
+package ders31_İnherıtance;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

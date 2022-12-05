@@ -1,0 +1,2 @@
+package ders_33nherıtanceDataTypKullanımı_Overrıdng;
+
